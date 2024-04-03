@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "The direct URL to the decrypted YouTube ipa"
-        default: ""
+        default: "https://archive.org/download/com.google.ios.youtube-19.10.7-decrypted_20240329/com.google.ios.youtube-19.10.7-Decrypted.ipa"
         required: true
         type: string
       bundle_id:
